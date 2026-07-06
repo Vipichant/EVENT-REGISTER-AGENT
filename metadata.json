@@ -1,0 +1,6 @@
+{
+  "name": "College Event Registration",
+  "description": "A production-ready full-stack college event registration system featuring responsive layout, student photo and payment uploads, secure admin login, and robust data exports to Excel/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
